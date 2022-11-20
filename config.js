@@ -120,8 +120,8 @@ global.log = function log() {
 global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
-	['62895612153565', 'Johannes', true],
-	['6282287219167', 'Papah-Chan', true]
+	['6285856575305', 'SubarGanzz', true],
+	['6283824196477', 'HD01', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
